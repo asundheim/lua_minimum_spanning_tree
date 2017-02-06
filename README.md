@@ -1,5 +1,5 @@
 # Lua Minimum Spanning Tree
-Generates a minimum spanning tree in Lua
+Generates a minimum spanning tree in Lua given a graph of edges
 
 # Installation
 Add mst.lua to your project folder and call it with require
