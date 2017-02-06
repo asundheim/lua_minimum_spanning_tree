@@ -1,6 +1,13 @@
 # Lua Minimum Spanning Tree
-Generates a minimum spanning tree in Lua given a graph of edges 
+Generates a minimum spanning tree in Lua given a graph of edges using Prim's Algorithm
+
+
+
 https://en.wikipedia.org/wiki/Minimum_spanning_tree
+
+
+
+https://en.wikipedia.org/wiki/Prim's_algorithm
 
 # Installation
 Add mst.lua to your project folder and call it with require
