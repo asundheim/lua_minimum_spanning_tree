@@ -1,5 +1,6 @@
 # Lua Minimum Spanning Tree
-Generates a minimum spanning tree in Lua given a graph of edges
+Generates a minimum spanning tree in Lua given a graph of edges 
+https://en.wikipedia.org/wiki/Minimum_spanning_tree
 
 # Installation
 Add mst.lua to your project folder and call it with require
@@ -22,7 +23,7 @@ for i = 1, #tree do
 end
 --prints each edge of the tree as x1,y1,x2,y2
 ````
-##License
+#License
 This work is under [MIT-LICENSE](http://www.opensource.org/licenses/mit-license.php).<br/>
 Copyright (c) 2017 Anders Sundheim
 
