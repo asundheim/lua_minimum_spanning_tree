@@ -31,7 +31,7 @@ end
 
 function same(x1,y1,x2,y2,edg)
   for i = 1,#edg do
-    if (x1==edg[i][1] and y1 == edg[i][1] and x2 == edg[i][3] and y2 == edg[i][4]) or (x2 == edg[i][1] and y2 == edg[i][2] and x1 == edg[i][3] and y1 == edg[i][4]) then
+    if (x1==edg[i][1] and y1 == edg[i][2] and x2 == edg[i][3] and y2 == edg[i][4]) or (x2 == edg[i][1] and y2 == edg[i][2] and x1 == edg[i][3] and y1 == edg[i][4]) then
       return true
     end
   end
